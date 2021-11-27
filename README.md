@@ -6,4 +6,4 @@ The game uses simple deep reinforcement learning being the agent (human) score t
 Visible issues:
 -Not disposing the useless TensorFlow models from epoch to epoch.
 
-The code if free to use and can be improved in a lot of ways.
+The code is free to use and can be improved in a lot of ways.
